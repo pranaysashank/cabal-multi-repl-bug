@@ -1,0 +1,7 @@
+multi-repl: True
+
+packages: foo
+
+
+program-options
+   ghc-options: -XTypeFamilies
